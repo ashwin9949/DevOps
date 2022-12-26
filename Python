@@ -1,0 +1,32 @@
+Python :
+Transcript
+What is a programming language?
+
+==Programming is simply a way for us to give instructions to computers.We give it an instruction manual and the computer follows.
+
+I can't just tell my computer what to do.You see, computers don't understand English or any other human language, for that matter.So what language do computers speak?
+Well, they speak in ones and zeros.
+
+==All electronics speak that language of on or off zero or one.But writing ones and zeros would be gibberish for us.It's hard for us to communicate like that, right?
+
+==So humans have developed programming languages that are in between human language and machine language.That is zeros and one.Some programming languages are lower level than others.That is their closer to machine language and other programming languages are higher level than others.That is their closer to English or a human language.And there are lots of programming languages.
+
+You have languages like assembly that is really, really close to machine code.
+You have languages like Python and JavaScript that are really, really close to English.
+
+We have these programming languages that we usually write on a file such as Python, JavaScript,maybe even Java.And then we somehow need to get these files that we write into ones and zero so that the our machines can understand.Well, we need a translator, right?
+
+==We take our code that we write what we call a source code written in a programming languages, and we give that to a translator that can understand that language but also understands machine language.And this translator just translates these files for us.So what is this translator?
+
+==Well, it's another program written by a human.It can either be an interpreter or a compiler.
+
+Now.Python usually uses an interpreter.And an interpreter, just like a translator, goes line by line through our code and executes our code on our machine.
+
+Compilers are a little bit different.They take your code all at once, reads the entire file all at once, and then translates that to machine code.
+
+So again, interpreter goes line by line and each line executes an instruction.A compiler takes the entire file and turns it into machine code.when we write code, whether it's Python, JavaScript,Java C or C++.What we're doing is we're typing it in a language that is human readable.We're giving it to one of these translators, like an interpreter or a compiler, and these spit outcode that are able to run on our machines.
+
+So to review interpreters, translate line by line and execute the line before going to the next line.
+
+Compilers translate all lines of a program to a file, usually called a binary, and execute the whole file at once.
+
